@@ -146,7 +146,7 @@ workbox-webpack-plugin
 ## 💬Usage 
 Users can utilise this web application to take notes that runs in the browser. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
-Link to application  
+Link to deployed application
 
 
 
