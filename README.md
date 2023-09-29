@@ -1,5 +1,5 @@
 # Just another text editor
-Progressive Web Applications: Text Editor  
+Progressive Web Applications: Text Editor    
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-Latest-yellow.svg)
 ![Express Badge](https://img.shields.io/badge/express-%5E4.17.1-orange.svg)
@@ -23,7 +23,11 @@ Progressive Web Applications: Text Editor
 
     
 ## 📄 Description 
-This is a text editor that runs in the browser. The app is a single-page application that meets the PWA criteria, The application will also function offline.
+This text editor is a single-page application that runs in the browser and meets the PWA criteria. It also features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.  
+
+To build this text editor, methods for getting and storing data to an IndexedDB database were implemented using the idb package. IndexedDB is a NoSQL database that is built into the browser and allows for offline data storage. idb is a lightweight wrapper around the IndexedDB API that makes it easier to use.  
+
+The text editor can be installed as a PWA, which means that it can be added to your home screen and launched like a native app. It is also offline compatible, so you can continue to work on your documents even when you don't have an internet connection.  
 
 ## 🪛 Technologies used 
 <p><a href="https://nodejs.org/">Node.js</a></p>
