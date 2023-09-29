@@ -146,12 +146,17 @@ workbox-webpack-plugin
 ## 💬Usage 
 Users can utilise this web application to take notes that runs in the browser. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
+Link to application  
+
+
 
 ## 🖼️Screenshot
-![Alt Text] (![Alt Text] (./assets/gif/your Gif here))
-
+Screenshot of JATE Text Editor
+![JATE](./Assets/JATE_img.png)
 
 ## 📹Video
+GIF Showing app manifest.json, service worker, indexedDB storage, installation, Network tab
+![JATE](./Assets/JATE.gif)
   
 ## ⚖️License 
 This project is licensed under MIT
