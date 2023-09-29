@@ -28,10 +28,84 @@ This is a text editor that runs in the browser. The app is a single-page applica
 - [Questions](#Questions)
     
 ## 🖥️ Installation 
-```md
-AS A developer
-I WANT to create notes or code snippets with or without an internet connection
-SO THAT I can reliably retrieve them for later use
+
+Users can clone the code and run npm install to install the dependencies
+```pip
+ npm install 
+```
+
+Otherwise this app requires the following installations.
+
+Express.js
+```pip
+ npm install express
+```
+
+idb
+```pip
+  npm i idb
+```
+
+if-env
+```pip
+  npm install if-env --save
+```
+
+Concurrently
+```pip
+  npm install concurrently --save
+```
+
+Babel loader
+```pip
+  npm install -D babel-loader @babel/core @babel/preset-env webpack
+```
+
+css-loader
+```pip
+  npm install --save-dev css-loader
+```
+
+style-loader
+```pip
+  npm install --save-dev style-loader
+```
+
+html-webpack-plugin
+```pip
+  npm i --save-dev html-webpack-plugin
+```
+
+http-server
+```pip
+  npm install http-server
+```
+
+Webpack
+```pip
+  npm install --save-dev webpack
+```
+
+webpack-CLI
+```pip
+ npm install --save-dev webpack-cli
+``` 
+
+webpack-dev-server
+```pip
+  npm install webpack-dev-server --save-dev
+```
+
+webpack-pwa-manifest
+
+```pip
+  npm install --save-dev webpack-pwa-manifest
+```
+
+workbox-webpack-plugin
+
+```pip
+  npm i workbox-webpack-plugin
 ```
   
 ## 💬 Usage 
@@ -48,10 +122,11 @@ Users can utilise this web application to take notes that runs in the browser. A
 This project is licensed under MIT
   
 ## 🤝 Contributing 
-da
+Brian Trang  
+With thanks to USYD
   
 ## 🛠️ Tests
-dada
+N/A
  
 ## ❔ Questions
 If you have any questions about this project, please contact me directly at brian.trang9@gmail.com. Feel free to view more of my projects at https://github.com/MakeRedundant.
