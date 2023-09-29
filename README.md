@@ -62,7 +62,7 @@ This is a text editor that runs in the browser. The app is a single-page applica
 - [Tests](#%EF%B8%8FTests)
 - [Questions](#Questions)
     
-## 🖥️ Installation 
+## 🖥️Installation 
 
 Users can clone the code and run npm install to install the dependencies
 ```pip
@@ -143,25 +143,25 @@ workbox-webpack-plugin
   npm i workbox-webpack-plugin
 ```
   
-## 💬 Usage 
+## 💬Usage 
 Users can utilise this web application to take notes that runs in the browser. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
 
-## 🖼️ Screenshot
+## 🖼️Screenshot
 ![Alt Text] (![Alt Text] (./assets/gif/your Gif here))
 
 
-## 📹 Video
+## 📹Video
   
-## ⚖️ License 
+## ⚖️License 
 This project is licensed under MIT
   
-## 🤝 Contributing 
+## 🤝Contributing 
 Brian Trang  
 With thanks to USYD
   
-## 🛠️ Tests
+## 🛠️Tests
 N/A
  
-## ❔ Questions
+## ❔Questions
 If you have any questions about this project, please contact me directly at brian.trang9@gmail.com. Feel free to view more of my projects at https://github.com/MakeRedundant.
