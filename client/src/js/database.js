@@ -72,6 +72,7 @@ initdb();
 
 
 //!!!!!Not using this code just for reference POST request
+// !! Code came from mini project
 
 // // Export a function we will use to POST to the database.
 // export const postDb = async (name, home, cell, email)  => {
