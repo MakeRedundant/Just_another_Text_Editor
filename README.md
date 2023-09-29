@@ -154,9 +154,13 @@ Link to deployed application
 Screenshot of JATE Text Editor
 ![JATE](./Assets/JATE_img.png)
 
+Screenshot of JATE Text Editor Offline
+![JATE](./Assets/JATE-Offline.png)
+
 ## 📹Video
 GIF Showing app manifest.json, service worker, indexedDB storage, installation, Network tab
 ![JATE](./Assets/JATE.gif)
+
   
 ## ⚖️License 
 This project is licensed under MIT
