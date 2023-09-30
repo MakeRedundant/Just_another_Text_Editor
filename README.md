@@ -169,6 +169,11 @@ Screenshot of JATE Text Editor
 Screenshot of JATE Text Editor Offline
 ![JATE](./Assets/JATE-Offline.png)
 
+Screenshot of JATE Text Editor Console with service worker, cache storage, indexed DB
+![JATE](./Assets/Text-Editor-App.png)
+
+
+
 ## 📹Video
 GIF Showing ```npm run start``` app manifest.json, service worker, indexedDB storage, installation, Network tab
 ![JATE](./Assets/JATE.gif)
