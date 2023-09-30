@@ -73,6 +73,14 @@ Users can clone the code and run npm install to install the dependencies
  npm install 
 ```
 
+Afterwards they can run the command ```npm run start``` which will sequentially run ```npm run build``` and if  
+successful will run ```cd server && node server.js```
+```pip
+ npm run start
+```
+
+This sequence ensures that your client-side code is built before starting the server.
+
 Otherwise this app requires the following installations.
 
 Express.js
@@ -162,7 +170,7 @@ Screenshot of JATE Text Editor Offline
 ![JATE](./Assets/JATE-Offline.png)
 
 ## 📹Video
-GIF Showing app manifest.json, service worker, indexedDB storage, installation, Network tab
+GIF Showing ```npm run start``` app manifest.json, service worker, indexedDB storage, installation, Network tab
 ![JATE](./Assets/JATE.gif)
 
   
